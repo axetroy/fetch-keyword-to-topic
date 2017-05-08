@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "pkg2ght",
+    "description": "package.json to github topic"
+  },
+  "appDescription": {
+    "message": "Fetch package.json keyword field and set topic",
+    "description": "Fetch package.json keyword field and set topic"
+  }
+}

@@ -24,6 +24,8 @@ The Chrome Extensions is available [on the Chrome Web Store](https://chrome.goog
 
 ## Features
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/fetch-keyword-to-topic.svg)](https://greenkeeper.io/)
+
 <dl>
   <dt>Write once and deploy to Chrome, Opera & Firefox</dt>
   <dd>

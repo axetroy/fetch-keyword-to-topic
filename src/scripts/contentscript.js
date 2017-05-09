@@ -66,7 +66,7 @@ function clickHandler(event) {
         .filter(kw => kw)
         .filter(kw => !formValues.includes(kw))
         .forEach(keyword => {
-          $input.value = keyword;
+          $input.value = keyword.replace(/\./g, '-');
           $input.click();
           $input.blur();
         });
